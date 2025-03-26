@@ -19,4 +19,15 @@ int main(){
     }
     else if(choice == 2){
       int a, b;
-    
+     std::cout<< "Sum:"<< (a + b) << "\n";
+}
+else if (choice == 3) {
+     std::cout<< "Goodbye!\n";
+     break;
+}
+else {
+     std::cout <<"Invalid choice, try again\n";
+}
+
+return 0;
+}
