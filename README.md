@@ -1,23 +1,34 @@
-# 👋 Hi, I'm Limpo Musonda
+# # 👋 Hi, I'm Limpo Musonda
 
-🎓 Software Engineering Student @ Zambia University of Technology  
-💻 Building things with Java, Python, JavaScript, Kotlin, and more  
-🌱 Currently learning: Android Development, Cloud Computing, AI  
+🎓 **Software Engineering Student** @ Zambia University College of Technology (ZUT)
+💻 **Mobile & Full-Stack Developer** | Building secure, scalable applications
+🌱 **Currently focusing on:** Android Development (Kotlin), Advanced Database Systems, and Cloud/DevSecOps principles.
 
-## 🚀 My Projects
+---
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [StudyQuest](link) | Gamified study platform | React, Firebase |
-| [Event Monolith](link) | Mobile app backend | TypeScript, Docker |
-| [CampusConnect](link) | Android app | Kotlin, Jetpack Compose |
-| [Banking-Testing](link) | Java app with JUnit tests | Java, JUnit |
+### 🚀 Featured Projects
 
-## 📚 Currently Learning
-- Android Development with Kotlin
-- Advanced Database Systems
-- Cloud Computing
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **CampusConnect** | Android app for campus students focusing on secure data handling. | Kotlin, Jetpack Compose | [🔗 View Code]([Link to Repo]) |
+| **Event Monolith** | Backend infrastructure for mobile applications. | TypeScript, Docker | [🔗 View Code]([Link to Repo]) |
+| **StudyQuest** | Gamified study web app with an admin panel and Python backend. | React, Firebase, Python | [🔗 View Code]([Link to Repo]) |
+| **Banking-Testing** | Java app practicing OOP design patterns and Test-Driven Development (TDD). | Java, JUnit | [🔗 View Code]([Link to Repo]) |
 
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/](link)
-- Email: [musondalimpomwenya@gmail.com/limpommusonda9@gmail.com/musondalimpoizukubukudo@gmail.com]
+---
+
+### 🛠️ My Tech Stack
+
+**Languages:** Java, Kotlin, JavaScript (TypeScript), Python, HTML/CSS
+**Frontend & Mobile:** React, Android (Jetpack Compose)
+**Backend & Databases:** Node.js, Firebase, SQL
+**Tools & DevOps:** Git, GitHub Actions (CI/CD), JUnit, Docker
+
+---
+
+### 📫 Let's Connect
+
+*   **LinkedIn:** [limpo-musonda](https://www.linkedin.com/in/limpo-musonda-186b94357)
+*   **Email:** [limpommusonda9@gmail.com](mailto:limpommusonda9@gmail.com)
+
+*"The best professionals move between both mindsets: making the code work (Developer) and making the whole system work reliably (Engineer)."*
